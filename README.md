@@ -4,12 +4,9 @@
 [![Latest Stable Version](https://img.shields.io/npm/v/karma-scss-preprocessor.svg)](https://www.npmjs.com/package/karma-scss-preprocessor)
 [![License](https://img.shields.io/npm/l/karma-scss-preprocessor.svg)](https://www.npmjs.com/package/karma-scss-preprocessor)
 [![NPM Downloads](https://img.shields.io/npm/dm/karma-scss-preprocessor.svg)](https://www.npmjs.com/package/karma-scss-preprocessor)
-
-[![Build Status](https://img.shields.io/travis/amercier/karma-scss-preprocessor/master.svg)](https://travis-ci.org/amercier/karma-scss-preprocessor)
-[![Test Coverage](https://img.shields.io/codecov/c/github/amercier/karma-scss-preprocessor/master.svg)](https://codecov.io/github/amercier/karma-scss-preprocessor?branch=master)
-[![dependencies Status](https://david-dm.org/amercier/karma-scss-preprocessor/status.svg)](https://david-dm.org/amercier/karma-scss-preprocessor)
-[![devDependencies Status](https://david-dm.org/amercier/karma-scss-preprocessor/dev-status.svg)](https://david-dm.org/amercier/karma-scss-preprocessor?type=dev)
-[![peerDependencies Status](https://david-dm.org/amercier/karma-scss-preprocessor/peer-status.svg)](https://david-dm.org/amercier/karma-scss-preprocessor?type=peer)
+[![dependencies Status](https://david-dm.org/amercier/karma-scss-preprocessor/status.svg)](https://david-dm.org/alasdairhurst/karma-scss-preprocessor)
+[![devDependencies Status](https://david-dm.org/amercier/karma-scss-preprocessor/dev-status.svg)](https://david-dm.org/alasdairhurst/karma-scss-preprocessor?type=dev)
+[![peerDependencies Status](https://david-dm.org/amercier/karma-scss-preprocessor/peer-status.svg)](https://david-dm.org/alasdairhurst/karma-scss-preprocessor?type=peer)
 
 > Karma preprocessor to compile Sass files on the fly with [sass](https://www.npmjs.com/package/sass).
 > In contrast of [karma-sass-preprocessor](https://www.npmjs.com/package/karma-sass-preprocessor),
@@ -22,6 +19,8 @@ Installation
 ```bash
 npm install @alasdair/karma-scss-preprocessor sass --save-dev
 ```
+
+This is a fork of karma-scss-preprocessor. The main difference is that `sass` is used instead of `node-sass`.
 
 Note: since v5.0, [sass](https://www.npmjs.com/package/sass) is used
 as a [peer dependency](https://docs.npmjs.com/files/package.json#peerdependencies).
