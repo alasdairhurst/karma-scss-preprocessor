@@ -1,10 +1,13 @@
 {
   "name": "@alasdair/karma-scss-preprocessor",
-  "version": "5.0.0-1",
+  "version": "5.0.0-2",
   "description": "Karma preprocessor to compile SCSS on the fly with sass",
   "license": "ISC",
-  "repository": "amercier/karma-scss-preprocessor",
+  "repository": "alasdairhurst/karma-scss-preprocessor",
   "author": "Alex Mercier <pro.alexandre.mercier@gmail.com> (http://amercier.com)",
+  "contributors": [
+    "Alasdair Hurst <omega@omegahurst.co.uk>"
+  ],
   "engines": {
     "node": ">=8.9"
   },
