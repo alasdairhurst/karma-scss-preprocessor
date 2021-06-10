@@ -1,9 +1,9 @@
 @alasdair/karma-scss-preprocessor
 =======================
 
-[![Latest Stable Version](https://img.shields.io/npm/v/karma-scss-preprocessor.svg)](https://www.npmjs.com/package/karma-scss-preprocessor)
-[![License](https://img.shields.io/npm/l/karma-scss-preprocessor.svg)](https://www.npmjs.com/package/karma-scss-preprocessor)
-[![NPM Downloads](https://img.shields.io/npm/dm/karma-scss-preprocessor.svg)](https://www.npmjs.com/package/karma-scss-preprocessor)
+[![Latest Stable Version](https://img.shields.io/npm/v/karma-scss-preprocessor.svg)](https://www.npmjs.com/package/@alasdair/karma-scss-preprocessor)
+[![License](https://img.shields.io/npm/l/karma-scss-preprocessor.svg)](https://www.npmjs.com/package/@alasdair/karma-scss-preprocessor)
+[![NPM Downloads](https://img.shields.io/npm/dm/karma-scss-preprocessor.svg)](https://www.npmjs.com/package/@alasdair/karma-scss-preprocessor)
 [![dependencies Status](https://david-dm.org/amercier/karma-scss-preprocessor/status.svg)](https://david-dm.org/alasdairhurst/karma-scss-preprocessor)
 [![devDependencies Status](https://david-dm.org/amercier/karma-scss-preprocessor/dev-status.svg)](https://david-dm.org/alasdairhurst/karma-scss-preprocessor?type=dev)
 [![peerDependencies Status](https://david-dm.org/amercier/karma-scss-preprocessor/peer-status.svg)](https://david-dm.org/alasdairhurst/karma-scss-preprocessor?type=peer)
