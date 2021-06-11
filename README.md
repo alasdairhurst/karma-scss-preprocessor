@@ -35,6 +35,9 @@ details.
 ```js
 module.exports = function (config) {
   config.set({
+    // You may need to configure the plugin like this since
+    // older verisons of karma don't support scopes out of the box
+    plugins: [ '@alasdair/karma-scss-preprocessor', 'karma-*' ],
     preprocessors: {
       'src/**/*.scss': ['scss']
     },

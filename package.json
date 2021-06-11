@@ -1,6 +1,6 @@
 {
   "name": "@alasdair/karma-scss-preprocessor",
-  "version": "5.0.0-2",
+  "version": "5.0.0-3",
   "description": "Karma preprocessor to compile SCSS on the fly with sass",
   "license": "ISC",
   "repository": "alasdairhurst/karma-scss-preprocessor",
